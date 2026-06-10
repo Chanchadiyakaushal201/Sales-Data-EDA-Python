@@ -83,7 +83,7 @@ This project answers the following business questions:
 
 ### Top States by Sales Amount
 
-<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/Sales-Data-EDA-Python/blob/6e3f9f9f627c5696216c112eccdb5300204bd898/Images/Top%205%20States%20by%20Total%20Sales%20Amount.png" alt="Image Description" width="600">
 
 ### Product Category Performance
 
