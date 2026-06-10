@@ -75,7 +75,7 @@ This project answers the following business questions:
 
 ### Gender Wise Total Sales
 
-<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/Sales-Data-EDA-Python/blob/e878f97acbfd3bb5ca5d3cfffc551ec7519e2b95/Images/Gender%20wise%20Total%20Sales%20Amount.png" alt="Image Description" width="600">
 
 ### Age Group Wise Total Sales
 
