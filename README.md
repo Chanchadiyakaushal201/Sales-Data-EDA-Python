@@ -79,7 +79,7 @@ This project answers the following business questions:
 
 ### Age Group Wise Total Sales
 
-<img src="https://github.com/Chanchadiyakaushal201/minimalist-skincare-sql-analytics/blob/25b819052e87d14b3f01e4cea9142dbf65c99883/Images/Database_Schema.png" alt="Image Description" width="600">
+<img src="https://github.com/Chanchadiyakaushal201/Sales-Data-EDA-Python/blob/10cf57035ae18a4da792e7ab4bd0567e0177afb6/Images/Age%20Group%20Wise%20Total%20Amount.png" alt="Image Description" width="600">
 
 ### Top States by Sales Amount
 
