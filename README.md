@@ -4,12 +4,12 @@
 
 ### Retail customer and product analysis using Python, Pandas, Matplotlib, and Seaborn
 
-[![Python](https://img.shields.io/badge/Python-EDA-3776AB?logo=python&logoColor=white)](Sales_Data_EDA_Python.ipynb)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](Sales_Data_EDA_Python.ipynb)
+[![Python](https://img.shields.io/badge/Python-EDA-3776AB?logo=python&logoColor=white)](python/Sales_Data_EDA_Python.ipynb)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](python/Sales_Data_EDA_Python.ipynb)
 [![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-Data%20Processing-013243?logo=numpy&logoColor=white)](https://numpy.org/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0)](https://seaborn.pydata.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-4C72B0)](https://seaborn.pydata.org/)\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 </div>
 
@@ -39,7 +39,7 @@
 
 This project performs exploratory data analysis on a retail sales dataset using Python. It converts transaction-level data into practical insights about customer purchasing behavior, demographic segments, geographic performance, product categories, professions, and best-selling products.
 
-The complete analysis is documented in [`Sales_Data_EDA_Python.ipynb`](Sales_Data_EDA_Python.ipynb), from data-quality checks and cleaning through aggregation, visualization, insight generation, and business recommendations.
+The complete analysis is documented in [`python/Sales_Data_EDA_Python.ipynb`](python/Sales_Data_EDA_Python.ipynb), from data-quality checks and cleaning through aggregation, visualization, insight generation, and business recommendations.
 
 > **Business goal:** identify the customers, regions, and products that contribute most to sales so marketing and inventory decisions can be better targeted.
 
@@ -87,7 +87,7 @@ The analysis is designed to:
 
 ## Dataset Overview
 
-The source file is available as [`Sales_Data.csv`](Sales_Data.csv).
+The source file is available as [`data/Sales_Data.csv`](data/Sales_Data.csv).
 
 The retail transaction dataset includes customer and purchase attributes such as:
 
@@ -209,21 +209,24 @@ The notebook answers the following questions:
 
 ```text
 Sales-Data-EDA-Python/
+├── data/
+│   └── Sales_Data.csv
 ├── Images/
 │   ├── Age Group Wise Total Amount.png
 │   ├── Gender wise Total Sales Amount.png
 │   ├── Product Category Wise Total Amount.png
 │   ├── Profession Wise Total Amount.png
 │   └── Top 5 States by Total Sales Amount.png
-├── Sales_Data.csv
-├── Sales_Data_EDA_Python.ipynb
+├── python/
+│   └── Sales_Data_EDA_Python.ipynb
+├── LICENSE
 └── README.md
 ```
 
 ### Quick Links
 
-- [Open the analysis notebook](Sales_Data_EDA_Python.ipynb)
-- [View the source dataset](Sales_Data.csv)
+- [Open the analysis notebook](python/Sales_Data_EDA_Python.ipynb)
+- [View the source dataset](data/Sales_Data.csv)
 - [Browse all visualizations](Images/)
 
 ---
@@ -260,9 +263,9 @@ Sales-Data-EDA-Python/
    jupyter notebook
    ```
 
-4. Open `Sales_Data_EDA_Python.ipynb`.
+4. Open `python/Sales_Data_EDA_Python.ipynb`.
 
-5. Confirm that `Sales_Data.csv` is available in the repository root, then run the notebook cells in order.
+5. Confirm that `data/Sales_Data.csv` is available in the repository root, then run the notebook cells in order.
 
 ---
 
