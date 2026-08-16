@@ -265,7 +265,7 @@ Sales-Data-EDA-Python/
 
 4. Open `python/Sales_Data_EDA_Python.ipynb`.
 
-5. Confirm that `data/Sales_Data.csv` is available in the repository root, then run the notebook cells in order.
+5. Confirm that `data/Sales_Data.csv` is present, then run the notebook cells in order. The notebook reads it through the relative path `../data/Sales_Data.csv`.
 
 ---
 
