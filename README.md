@@ -293,6 +293,12 @@ This project demonstrates how Python can be used to clean, explore, visualize, a
 
 ---
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
 ## Author
 
 ### Kaushal Chanchadiya
